@@ -23,6 +23,8 @@ A distinction should be drawn between *having fun* and *being happy*. And what i
 
 Now I feel as though I have to redeem myself, since many passionate gamers are reaching for their pitchforks at this point. Look, if video games are your way to wind down after a long day and you are happy while you are playing video games, then there is no need for you to stop playing video games. But, if video games are distracting you from what you want to actually be doing, or you're not having fun *or* feeling happy when you play, then perhaps it's time to take a break. Anybody who has come across the "toxic gamer" knows that this is true--an individual who is not only not having fun himself, but making the game worse for other individuals.
 
+## Conclude
+
 So, if you're that person who is spending *maybe* a little bit too much time playing video games, or taking the game a *bit* too seriously, it may be beneficial to consider changing your habits if video games simply *are that thing you do*. Turning around and examining one's habits is not an easy task, but I've outlined some strategies that you might use to tackle distractions in your life in my previous article, "Productivity is the new Counterculture". I hope that this has resonated with some readers, and hopefully you've found something useful.
 
 [1]:https://www.youtube.com/watch?v=AXk2CB2_g2E
