@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quitting Video Games"
-date: 2017-06-23
+date: 2017-06-23 23:01:49 -0400
 category: my posts
 ---
 
