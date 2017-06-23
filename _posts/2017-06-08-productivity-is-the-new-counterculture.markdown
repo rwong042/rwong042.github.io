@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Productivity is the New Counterculture"
-date: 2016-07-08 23:01:50 -0400
+date: 2017-06-08 23:01:50 -0400
 category: my posts
 ---
 I will try to start writing content daily as I get a better handle on blogging. For now, I'll start off with some observations on today's perceived "counterproductivity" culture and some advice for anybody that feels distracted.
