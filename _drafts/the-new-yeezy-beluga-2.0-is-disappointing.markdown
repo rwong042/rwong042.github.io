@@ -7,4 +7,4 @@ category: my posts
 
 Seriousle. It's really not that good, but I'm sure hypebeasts will call this shoe nothing short of amazing.
 
-![a look at the new beluga 2.0](/home/robert/rwong042.github.io/_assets/images/hypebeast3.jpg){:class="img-responsive"}
+![a look at the new beluga 2.0](/home/robert/rwong042.github.io/_img/images/beluga2.jpg){:class="img-responsive"}
